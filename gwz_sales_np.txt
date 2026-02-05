@@ -6,7 +6,13 @@ group by date_date
 order by date_date
 
 
+DENEME AMAÇLI EKLENEN METİNDİR.
+
++OKAN OZCAN
+
++gami
 DENEME AMAÇLI EKLENEN METİNDİR. KADİR İMECİ
 Deneme Selin DİKİNCİ
 RIZA DENEME 2
 KADİR İMECİ 2. DEĞİŞİKLİK
+irmak deneme
