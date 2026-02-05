@@ -9,3 +9,4 @@ order by date_date
 DENEME AMAÇLI EKLENEN METİNDİR.
 
 +OKAN OZCAN
++OKAN OZCAN 2
